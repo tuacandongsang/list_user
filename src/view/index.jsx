@@ -28,7 +28,7 @@ const initItem = [
         repeatPassWord: "03011993"
     },
     {
-        id: 3,
+        id: 321,
         name: " nguyen nga",
         email: "ngaden@gmail.com",
         birthDay: "2001-12-26",
