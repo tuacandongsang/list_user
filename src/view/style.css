@@ -1,0 +1,66 @@
+
+.header{
+    padding: 10px 20px 30px 30px;
+    border-bottom: 1px solid;
+}
+.btn_add{
+    width: 90%;
+    padding-left: 30px ;
+    margin-top: 20px;
+}
+.modal{
+    /* padding: 10px; */
+    display: block;
+}
+.nameModal{
+ display: flex;
+ justify-content: space-between;
+ margin: 0 20px;
+}
+
+.input_Full{
+    width: 90%;
+    /* background-color: aqua; */
+    margin: 0 20px;
+}
+.label_title{
+    text-align: left;
+}
+.label_paddingLeft_20px{
+    padding-left: 20px;
+}
+.label_title_2{
+    text-align: left;
+    width: 200px;
+
+}
+.width_button{
+    width: 150px;
+    margin-bottom: 10px;
+}
+.width_add{
+    width: 300px;
+}
+.input_error{
+    margin: 0 !important;
+}
+.button_margin_top{
+    margin: 10px auto;
+    display: flex;
+}
+.errorPassWord_margin{
+    display: flex;
+    margin: auto;
+}
+.gender__block{
+    display: flex;
+}
+.select_gender{
+    width: 65px;
+    padding: 0;
+}
+.select_gender__block{
+    margin-left: 5px;
+}
+
+
